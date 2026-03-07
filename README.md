@@ -38,3 +38,6 @@ Use **View details** on a row to load connected Team resources on demand. The de
 - Resource links and labels
 
 If Teams/Circles data is unavailable, the page shows a clear status message instead of failing.
+
+Screenshot:
+<img width="1918" height="995" alt="Teams-Governance" src="https://github.com/user-attachments/assets/05ad3a66-a834-478a-9c99-d84fc1c2b1b0" />
