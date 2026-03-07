@@ -1,0 +1,18 @@
+{
+	"include": ["./src/**/*.ts", "./src/**/*.vue", "./src/**/*.d.ts"],
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "ESNext",
+		"moduleResolution": "bundler",
+		"noEmit": true,
+		"resolveJsonModule": true,
+		"strict": true,
+		"jsx": "preserve",
+		"jsxImportSource": "vue",
+		"types": ["vite/client"],
+		"skipLibCheck": true,
+		"erasableSyntaxOnly": true,
+		"outDir": "js",
+		"rootDir": "src"
+	}
+}
