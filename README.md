@@ -1,3 +1,5 @@
+# This repository has been moved to https://codeberg.org/Robert1976/teamsgovernance
+
 # Teams Governance
 
 Teams Governance adds an admin page that lists user-created Nextcloud Teams (formerly Circles).
